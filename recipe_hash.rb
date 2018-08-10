@@ -18,7 +18,7 @@ perfect_10_recipe= {:almondflour => "1/2 tea spoon", :bakingsoda=> "1/4 tea spoo
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 
 def recipe_ingredients(perfect_10_recipe)
-  puts perfect_10_recipe
+  return perfect_10_recipe
 end
 
 recipe_ingredients(perfect_10_recipe)
