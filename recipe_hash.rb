@@ -13,7 +13,7 @@
 #  - agave - 1/4 cup
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
-perfect_10_recipe= {:almondflour => "1/2 tea spoon", :bakingsoda=> "1/4 tea spoon", :Xanthangum => "1/2 tea spoon", :sliveredalmondslightlytoasted => "1/4 cup", :minidarkchocolatechips => "3/4 cup", :oliveoil => "1/2 cup", :agave => "1/4 cup"}
+perfect_10_recipe= {:almondflour => "1/2 tea spoon", :glutenfreewholeoats=> "1 cup", :koshersalt => "1/2 tea spoon", :bakingpowder => "1/2 tea spoon", :bakingsoda=> "1/4 tea spoon", :Xanthangum => "1/2 tea spoon", :sliveredalmondslightlytoasted => "1/4 cup", :minidarkchocolatechips => "3/4 cup", :oliveoil => "1/2 cup", :agave => "1/4 cup"}
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 
